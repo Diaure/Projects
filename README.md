@@ -6,19 +6,19 @@ Bienvenue sur mon dépôt GitHub regroupant mes projets de Data Analyst réalis�
 
 | 📌 Projet | 📂 Description |
 |-----------|--------------|
-| [Analyse des Votes Blancs](./projet-votes-blancs/) | Étude des votes blancs et nuls en France |
-| [Analyse du Marché de l’Emploi Data](./projet-marche-emploi/) | Analyse des offres d’emploi dans le domaine de la data |
-| [WildSearchFood](./projet-wildsearchfood/) | Recherche et analyse de restaurants avec API Yelp |
+| [Analyse des Votes Blancs]([./projet-votes-blancs/](https://github.com/Diaure/Mission-Data)) | Étude des votes blancs et nuls en France entre 1995 et 2022 |
+| [Analyse de rentabilité](https://github.com/Diaure/Business-case-Market-Price-Retail) | **Business Case** : Analyse de rentabilité et réduction des coûts |
+| [WildFindJob](./projet-wildsearchfood/) | Recherche et analyse de restaurants avec API Yelp |
 
 ## 🛠️ Compétences mises en avant
-- 📊 **Exploration et visualisation de données** (Matplotlib, Seaborn, Plotly)
+- 📊 **Exploration et visualisation de données** (SQL, Matplotlib, Seaborn, Plotly)
 - 🏗️ **Nettoyage et manipulation des données** (Pandas, NumPy)
 - 📈 **Analyse de tendances et statistiques**
 - ⚙️ **Automatisation et web scraping** (BeautifulSoup, Scrapy)
 - 🌐 **Création de dashboards interactifs** (Streamlit, Tableau)
 
 ## 🔗 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonlinkedin/)
-- 🏠 [Portfolio GitHub](https://github.com/ton-github)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
+- 🏠 [Portfolio GitHub](https://github.com/Diaure/Projects)
 
 N’hésitez pas à explorer chaque projet et à contribuer ! 🚀
