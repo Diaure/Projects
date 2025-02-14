@@ -8,8 +8,7 @@ Bienvenue sur mon dépôt GitHub regroupant mes projets de Data Analyst réalis�
 |-----------|--------------|
 | [Analyse business](https://github.com/Diaure/Analyse-Business) | Tableau de bord stratégique : pilotage de la performance d'entrepprise par département - **KPI** |
 | [Analyse de rentabilité](https://github.com/Diaure/Business-case-Market-Price-Retail) | **Business Case** : Analyse de rentabilité et réduction des coûts |
-| [Mission DATA](https://github.com/Diaure/Mission-Data/tree/main) | Étude des votes blancs et nuls en France entre **1995** et **2022** 
-| [WildFindJob](./projet-wildsearchfood/) | Création d'une **application d'aide à la recherche d'emploi dans le domaine de la Data** |
+| [Mission DATA](https://github.com/Diaure/Mission-Data/tree/main) | Étude des votes blancs et nuls en France entre **1995** et **2022**  |
 
 ## 🛠️ Compétences mises en avant
 - 📊 **Exploration et visualisation de données** (SQL, Matplotlib, Seaborn, Plotly)
