@@ -20,7 +20,6 @@ Chaque projet est détaillé avec le contexte, les données utilisées et les an
 
 **Projets de groupe**
 
-|🏆 Projet	| 🎯 Problématique	| 🛠 Compétences clés	| 🔗 Lien |
 |-----------|-------------------|---------------------|---------|
 |💰 Analyse de rentabilité | Mettre à disposition un tableau de bord actualisable pour la prise de décisision stratégique |	SQL, Power BI	| 📌 [Voir le projet](https://github.com/Diaure/Analyse-Business) |
 |✉️ Étude des votes blancs et nuls en France entre **1995** et **2022** | Comprendre l'impact des votes blans, nuls et abstentions	| Python, Power BI, Geocoding, Streamlit	| 📌 [Voir le projet](https://github.com/Diaure/Business-case-Market-Price-Retail) |
