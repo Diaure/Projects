@@ -4,8 +4,8 @@ Bienvenue sur mon portfolio de projets Data Analyst !
 
 J’ai exploré divers domaines (marché du vin, mobilité, emploi, etc.), en utilisant Python, SQL, Power BI et le Machine Learning pour transformer des données en insights stratégiques.
 
-📊 **Objectif** : Montrer comment la data peut répondre à des problématiques réelles et orienter des décisions business.<br>
-📂 Chaque projet est détaillé avec le contexte, les données utilisées et les analyses menées.
+## **Objectif** : Montrer comment la data peut répondre à des problématiques réelles et orienter des décisions business.<br>
+Chaque projet est détaillé avec le contexte, les données utilisées et les analyses menées.
 
 
 ## 📁 Liste des projets
