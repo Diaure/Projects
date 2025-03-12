@@ -10,7 +10,7 @@ Chaque projet est détaillé avec le contexte, les données utilisées et les an
 
 ## 📁 Liste des projets
 
-**Business cases**
+### **Business cases**
 
 | Projet	| Problématique	| Compétences clés	| Lien |
 |-----------|-------------------|---------------------|---------|
@@ -18,7 +18,7 @@ Chaque projet est détaillé avec le contexte, les données utilisées et les an
 |🏡 Analyse du marché de l'immobilier	| Comprendre les dynamiques du marché et orienter les politiques publiques du département de l'AIN	| Python, Power BI, Tableau interactif	| 📌 [Voir le projet](https://github.com/Diaure/Immobilier-AIN) |
 |💸 Diagnostic des coûts et bénéfices |	Réduire les coûts et augmenter les revenus | Pandas, DataViz |	📌 [Voir le projet](https://github.com/Diaure/Business-case-Market-Price-Retail) |
 
-**Projets de groupe**
+### **Projets de groupe**
 
 | Projet	| Problématique	| Compétences clés	| Lien |
 |-----------|-------------------|---------------------|---------|
