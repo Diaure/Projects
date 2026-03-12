@@ -29,15 +29,25 @@ Chaque projet présente le contexte, les données utilisées, les analyses mené
 |🔎 Analyse du marché de l’emploi Data |	Identifier les tendances et opportunités du secteur Data |	Web Scraping, Pandas, DataViz |	📌 [Voir le projet](https://github.com/jpvt-data/wild-find-job) |
 
 ## 🛠️ Compétences mises en avant
-- 📊 **Exploration et visualisation de données** (SQL, Matplotlib, Seaborn, Plotly)
-- 🏗️ **Nettoyage et manipulation des données** (Pandas, NumPy)
-- 📈 **Analyse de tendances et statistiques** (Power BI)
-- ⚙️ **Automatisation et web scraping** (BeautifulSoup, Scrapy)
-- 🌐 **Création de dashboards / plateforme interactifs** (Streamlit)
-- 🤖 **Mise en production d’un modèle de Machine Learning** (sérialisation, chargement, prédiction)
-- 🧩 **Développement d’API REST** (FastAPI, endpoints /predict, validation des données)
-- 🚀 **Déploiement cloud sur Hugging Face Spaces** (runtime, gestion des dépendances, structure du repo)
-- 🔄 **CI/CD et automatisation du déploiement** (GitHub Actions, workflows séparés CI/CD)
+📊 **Analyse & Visualisation de données**
+- Exploration, nettoyage et structuration des données (Pandas, NumPy)
+- Visualisation avancée (Matplotlib, Seaborn, Plotly)
+- Analyse descriptive & tendances métier (Power BI, Qlik, Excel)
+
+📈 **Data Storytelling & Restitution**
+- Création de dashboards interactifs (Power BI, Streamlit)
+- Présentations claires et orientées décision (PowerPoint)
+
+🤖 **Machine Learning & Explicabilité**
+- Développement de modèles supervisés (classification, régression)
+- Explicabilité globale & locale (Feature Importance, SHAP)
+- Optimisation & évaluation (cross‑validation, métriques métier)
+
+⚙️🤖 **MLOps & Industrialisation**
+- Pipelines reproductibles (préprocessing, gestion des NaN, feature engineering)
+- Tracking & versioning des modèles (MLflow, Model Registry)
+- API REST pour le scoring (FastAPI)
+- Déploiement & automatisation (Hugging Face Spaces, GitHub Actions)
 
 ## 🔗 Me contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
