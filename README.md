@@ -14,6 +14,7 @@ Chaque projet présente le contexte, les données utilisées, les analyses mené
 
 | Projet	| Problématique	| Compétences clés	| Lien |
 |-----------|-------------------|---------------------|---------|
+|🧭 Elaboration d'un modèle de scoring | Mettre en place un scoring crédit automatisé et explicable, industrialisé via une approche MLOps de bout en bout | Python, Machine Learning, MLOPS, SHAP | 📌 [Voir le projet](https://github.com/Diaure/Classification-Risque-Credit-Pipeline-MLOps-) |
 |🧠 Déploiement d'un modèle de machine learning | Créer un service de prédiction du turnover RH via une API | Python, Machine Learning, FastAPI, SHAP, PostgreSQL | 📌 [Voir le projet](https://github.com/Diaure/Futurisys_ML_API) |
 |🍷 Analyse du marché du vin | Définir le prix optimal du Pinot Noir Domaine des Croix sur le marché US |	Python, Machine Learning, NLP, DataViz	| 📌 [Voir le projet](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix) |
 |🏡 Analyse du marché de l'immobilier	| Comprendre les dynamiques du marché et orienter les politiques publiques du département de l'AIN	| Python, Power BI, Tableau interactif	| 📌 [Voir le projet](https://github.com/Diaure/Immobilier-AIN) |
