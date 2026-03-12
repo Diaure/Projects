@@ -31,12 +31,8 @@ Chaque projet présente le contexte, les données utilisées, les analyses mené
 ## 🛠️ Compétences mises en avant
 📊 **Analyse & Visualisation de données**
 - Exploration, nettoyage et structuration des données (Pandas, NumPy)
-- Visualisation avancée (Matplotlib, Seaborn, Plotly)
-- Analyse descriptive & tendances métier (Power BI, Qlik, Excel)
-
-📈 **Data Storytelling & Restitution**
-- Création de dashboards interactifs (Power BI, Streamlit)
-- Présentations claires et orientées décision (PowerPoint)
+- Visualisation avancée (Matplotlib, Seaborn)
+- Analyse descriptive, dashboards interactifs, présentations claires et orientées (Qlik, Power BI, Excel, Streamlit)
 
 🤖 **Machine Learning & Explicabilité**
 - Développement de modèles supervisés (classification, régression)
@@ -46,8 +42,7 @@ Chaque projet présente le contexte, les données utilisées, les analyses mené
 ⚙️🤖 **MLOps & Industrialisation**
 - Pipelines reproductibles (préprocessing, gestion des NaN, feature engineering)
 - Tracking & versioning des modèles (MLflow, Model Registry)
-- API REST pour le scoring (FastAPI)
-- Déploiement & automatisation (Hugging Face Spaces, GitHub Actions)
+- Déploiement & automatisation (FastAPI, Hugging Face Spaces, GitHub Actions)
 
 ## 🔗 Me contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
